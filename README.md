@@ -10,3 +10,5 @@ Classification problem can also be settled in this dataset since several variabl
 URL: https://www.kaggle.com/mehdidag/black-friday
 
 Task: Classification, Regression
+
+Deliverables: 2 Notebooks
