@@ -1,5 +1,3 @@
-DSE-I1020-Final
-
 # Black Friday dataset from kaggle
 
 Discription from Kaggle:
